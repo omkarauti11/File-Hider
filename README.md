@@ -29,7 +29,7 @@ The File Hider Web Application is a secure and user-friendly command-line tool d
 - Update the database connection details in the MyConnection.java file.(Username,Password)
 - Update the OTP connection details in the SendOTPService.java file.(Email,App Password/Email Password)
 
-4. Run ApplicaApplication
+4. **Run ApplicaApplication**
 - Run Main.java file
 
 
